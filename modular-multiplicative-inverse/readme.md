@@ -4,6 +4,7 @@
 
 ## Resources
 https://www.youtube.com/watch?v=YwaQ4m1eHQo
+
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 ## Screenshot
